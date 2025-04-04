@@ -19,4 +19,8 @@
                 throw new \InvalidArgumentException('Invalid unit, only C (Celsius) or F (Fahrenheit) are allowed');
             }
         }
+
+        public function whoismota(){
+            return "Vijay Prashad!";
+        }
     }
