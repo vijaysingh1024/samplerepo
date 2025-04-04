@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "vijaysingh1024\\vamplerepo\\": "src/"
+            "vijaysingh1024\\samplerepo\\": "src/"
         }
     },
     "authors": [
