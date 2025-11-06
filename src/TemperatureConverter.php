@@ -26,4 +26,5 @@
 
         public function whoismoti(){
             return "Mahi Singh!";
+        }
     }
