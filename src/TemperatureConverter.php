@@ -23,4 +23,7 @@
         public function whoismota(){
             return "Vijay Prashad!";
         }
+
+        public function whoismoti(){
+            return "Mahi Singh!";
     }
