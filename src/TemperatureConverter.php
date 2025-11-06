@@ -15,7 +15,7 @@
                 $celsius = ($temperature - 32) * 5 / 9;
                 return $celsius;
             } else {
-                //Throwing error if the unit provided is neither C nor F
+                //Throwing error if the unit provided is neither C nor F Testing
                 throw new \InvalidArgumentException('Invalid unit, only C (Celsius) or F (Fahrenheit) are allowed');
             }
         }
